@@ -65,4 +65,7 @@ public class Human {
         this.age = age;
     }
 
+    public void walk(String name) {
+        System.out.println(name + " is walking");
+    }
 }
